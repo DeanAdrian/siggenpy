@@ -1,6 +1,8 @@
 import numpy as np
 import scipy.signal as sig
 from matplotlib import pyplot as plt
+import warnings
+warnings.filterwarnings("ignore")
 
 
 class DiscreteTime:
